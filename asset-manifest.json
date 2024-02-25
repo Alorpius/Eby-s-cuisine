@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Eby-s-cuisine/static/css/main.3f41425e.css",
+    "main.js": "/Eby-s-cuisine/static/js/main.7b28692c.js",
+    "static/js/453.f6bb00a8.chunk.js": "/Eby-s-cuisine/static/js/453.f6bb00a8.chunk.js",
+    "static/media/video (2160p).mp4": "/Eby-s-cuisine/static/media/video (2160p).c7358f4d4f559d1b3a32.mp4",
+    "static/media/meal.mp4": "/Eby-s-cuisine/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Eby-s-cuisine/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/vid 2.mp4": "/Eby-s-cuisine/static/media/vid 2.970db2e7dff7f932b1f0.mp4",
+    "static/media/res video.mp4": "/Eby-s-cuisine/static/media/res video.abb33584637d656fbac0.mp4",
+    "static/media/hed.jpg": "/Eby-s-cuisine/static/media/hed.7c7fb006a64142406a61.jpg",
+    "static/media/abacha.jpg": "/Eby-s-cuisine/static/media/abacha.e6e3194f36b6811f7ab7.jpg",
+    "static/media/plate 2.jpg": "/Eby-s-cuisine/static/media/plate 2.e0f8d3f182aa9e211db7.jpg",
+    "static/media/pack 12.jpg": "/Eby-s-cuisine/static/media/pack 12.0535309cea13e0f68fd6.jpg",
+    "static/media/logo.jpg": "/Eby-s-cuisine/static/media/logo.ad3b56e60a2e461bd91c.jpg",
+    "static/media/card 2.jpg": "/Eby-s-cuisine/static/media/card 2.1576b7992651e3f37cb5.jpg",
+    "static/media/flyer.jpg": "/Eby-s-cuisine/static/media/flyer.210e58c35becc711ae26.jpg",
+    "static/media/card 22.jpg": "/Eby-s-cuisine/static/media/card 22.1c274dbd61c37e2ca734.jpg",
+    "index.html": "/Eby-s-cuisine/index.html",
+    "main.3f41425e.css.map": "/Eby-s-cuisine/static/css/main.3f41425e.css.map",
+    "main.7b28692c.js.map": "/Eby-s-cuisine/static/js/main.7b28692c.js.map",
+    "453.f6bb00a8.chunk.js.map": "/Eby-s-cuisine/static/js/453.f6bb00a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f41425e.css",
+    "static/js/main.7b28692c.js"
+  ]
+}
